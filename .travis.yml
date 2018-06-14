@@ -9,3 +9,6 @@ r:
 os:
   - linux
   - osx
+  
+sudo: false
+cache: packages
