@@ -2,13 +2,8 @@
 
 language: r
 r:
-  - oldrel
-  - release
+  - 3.4.3
+  - 3.5.0
   - devel
-
-os:
-  - linux
-  - osx
-  
 sudo: false
 cache: packages
