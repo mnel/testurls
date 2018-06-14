@@ -1,12 +1,12 @@
-\name{test-package}
-\alias{test-package}
-\alias{test}
+\name{testurls-package}
+\alias{testurls-package}
+\alias{testurls}
 \docType{package}
-\title{\packageTitle{test}}
-\description{\packageDescription{test}}
+\title{\packageTitle{testurls}}
+\description{\packageDescription{testurls}}
 \details{
-  The DESCRIPTION file: \packageDESCRIPTION{test}
-  \packageIndices{test}
+  The DESCRIPTION file: \packageDESCRIPTION{testurls}
+  \packageIndices{testurls}
 
   This section should provide a more detailed overview of how to use the
   package, including the most important functions.
