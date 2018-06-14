@@ -2,4 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-.DSStore
+.DS_Store
+.Rproj
