@@ -1,0 +1,9 @@
+Package: testurls
+Type: Package
+Title: Testing Connections and Encoding
+Version: 1.0
+Date: 2018-06-04
+Author: Michael Nelson
+Maintainer: Michael Nelson <mnels@doh.health.nsw.gov.au>
+Description: Encoding
+License: GPL (>= 2)
