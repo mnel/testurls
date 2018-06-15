@@ -12,4 +12,5 @@ testfun(url_internal)
 
 
 url_internal_en <- url(urlR, encoding = "UTF-8", method = 'internal')
-testfun(url_internal_en)#scan(url_internal_en, "")
+testfun(url_internal_en)
+
